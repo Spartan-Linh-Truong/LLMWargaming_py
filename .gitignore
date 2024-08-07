@@ -24,7 +24,7 @@ docs/site/
 Manifest.toml
 
 # Ignore CSV files to prevent survey data getting pushed
-# *.csv
+*.csv
 
 .DS_Store
 *.png

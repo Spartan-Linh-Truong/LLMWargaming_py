@@ -10,7 +10,7 @@ class SimulationConfig:
     wargame_dir: str = "wargame/"
     output_dir: str = "results/"
     out_csv_file: str = ""
-    use_dummygpt: bool = True
+    use_dummygpt: bool = False
     use_bench_players: bool = False
     no_dialog: bool = False 
     no_chiefs: bool = False 
